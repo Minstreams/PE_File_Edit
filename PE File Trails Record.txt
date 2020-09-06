@@ -1,0 +1,28 @@
+¡¾Trails Record¡¿
+(1)	printf only
+SizeOC	0E00
+Entry	128D
+.text	0C2E
+.rdata	0A84-
+.data	0388
+.rsrc	01E0-
+.reloc	0144-
+
+(2)	MassageBox only
+SizeOC	0C00
+Entry	1254
+.text	0BFE
+.rdata	0A84-
+.data	0384
+.rsrc	01E0-
+.reloc	0144-
+
+(3)	Empty
+SizeOC	0C00
+Entry	1254
+.text	0BFE
+.rdata	0A84-
+.data	0384
+.rsrc	01E0-
+.reloc	0144-
+
